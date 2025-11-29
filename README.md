@@ -7,9 +7,9 @@
 - 🔭 Actualmente estoy trabajando en un **Sistema web de gestión contable y control de inventarios** para mi papelería (adaptable a otras empresas).
 - 🌱 Estoy aprendiendo **Tailwind, React y Vue.js** (ya manejo HTML, CSS/Bootstrap y PHP/Laravel).
 - 👯 Me interesa el **Desarrollo Web**, con aspiraciones futuras en **Inteligencia Artificial, Ciberseguridad y Diseño UI/UX**.
-- 💬 Pregúntame sobre **Arquitectura MVC y Bases de Datos**.
+- 💬 Pregúntame sobre **Arquitectura MVC y Bases de Datos y Laravel**.
 - 📫 Cómo contactarme: **[bvergelgalvan@gmail.com](mailto:bvergelgalvan@gmail.com)**
-- ⚡ Dato curioso: **Soy músico (toco el piano) 🎹, me encanta viajar a las montañas 🏔️ y soy un entusiasta de la tecnología móvil y gadgets.**
+- ⚡ Dato curioso: **Soy músico (toco el piano) 🎹, me encanta viajar, conocer nuevos lugares y paisajes maravillosos 🏔️. Soy un entusiasta de la tecnología móvil y gadgets.**
 
 ## 🛠️ Lenguajes y Herramientas
 
@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" style="margin-right: 10px;" />
@@ -28,8 +28,8 @@
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MrBrian04&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBrian04&layout=compact&theme=radical" alt="Lenguajes más usados" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrBrian04&theme=radical" alt="Estadísticas de GitHub" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrBrian04&theme=radical" alt="Lenguajes más usados" />
 </p>
 
 ---
