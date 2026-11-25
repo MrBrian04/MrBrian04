@@ -1,64 +1,73 @@
-# Hola, soy Brayan Johan Vergel Galvan (MrBrian04) 👋
+# Brayan Johan Vergel Galvan
 
-> **Tecnólogo en Análisis y Desarrollo de Software** · SENA CIES · Etapa Productiva 2024–2026  
-> Backend Developer especializado en PHP + Laravel, con despliegue en producción sobre AWS.
+**Software Developer | Backend & Full Stack | Arquitectura de software**
 
----
+Desarrollador de software formado en el SENA (ADSO), con experiencia en aplicaciones web y móviles, APIs REST y automatización de procesos. Me interesa construir soluciones mantenibles, seguras y orientadas a problemas reales.
 
-## 🚀 Sobre mí
+- **Backend:** PHP / Laravel, Java / Spring Boot, Python / Django REST Framework.
+- **Frontend:** React, TypeScript, React Native (Expo), Inertia.js y Tailwind CSS.
+- **Datos:** MySQL, PostgreSQL y MongoDB.
+- **Arquitectura:** MVC, arquitectura en capas, arquitectura hexagonal, principios SOLID y diseño de APIs REST.
+- **Herramientas e infraestructura:** Git, Docker, Linux, Nginx, AWS y Power Automate Desktop.
+- **En aprendizaje continuo:** DDD, pruebas automatizadas, seguridad de aplicaciones y diseño de sistemas.
 
-- 🔭 **Proyecto actual:** [StockBV Plus 2.0](https://stockbvplus.me/login) — Sistema web de gestión contable e inventarios, desplegado en AWS (EC2 + Aurora RDS).
-- 🏗️ **Stack principal:** PHP · Laravel 12 · React 19 · Inertia.js · Tailwind CSS · MySQL.
-- ☁️ **Infraestructura:** AWS (VPC · EC2 · Aurora RDS) · Nginx · Let's Encrypt (HTTPS).
-- 🧱 **Arquitectura:** MVC · Arquitectura en capas · Principios SOLID · Eloquent ORM.
-- 📚 **Explorando:** Arquitectura Hexagonal · Microservicios · Ciberseguridad · UI/UX.
-- 💬 **Pregúntame sobre:** Laravel, arquitectura MVC, despliegue en AWS o bases de datos relacionales.
-- 📫 **Contacto:** [bvergelgalvan@gmail.com](mailto:bvergelgalvan@gmail.com)
-- ⚡ **Dato curioso:** Soy músico 🎹, viajero 🏔️ y entusiasta de la tecnología móvil y gadgets.
+## Proyectos destacados
 
----
+### [StockBV Plus 2.0](https://github.com/MrBrian04/StockBV_Plus_2.0)
+Sistema de gestión de inventario, compras, ventas y cartera para pequeños negocios.
 
-## 🛠️ Lenguajes y Herramientas
+**Tecnologías:** Laravel 12 · React 19 · TypeScript · Inertia.js · Tailwind CSS · MySQL.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel 12" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React 19" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL / Aurora RDS" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="AWS (EC2, VPC, RDS)" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" title="Nginx" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git / GitHub" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" style="margin-right:10px;" />
-</div>
+**Enfoque:** lógica de negocio, autenticación, roles y permisos, pruebas y despliegue de aplicaciones.
 
----
+### [Dishes CRUD — Arquitectura hexagonal](https://github.com/MrBrian04/dishes-crud)
+API REST en Spring Boot organizada mediante **dominio, casos de uso, puertos y adaptadores**. Integra un servicio externo de usuarios con RestClient y Resilience4j.
 
-## 🏗️ Proyecto Destacado
+**Tecnologías:** Java · Spring Boot · Spring Data JPA · MySQL · Resilience4j.
 
-### [StockBV Plus 2.0](https://stockbvplus.me/login)
-> Sistema web de gestión contable e inventarios para microempresas.
+### [Users CRUD — API REST](https://github.com/MrBrian04/users-crud)
+API en Spring Boot para usuarios, productos, categorías y proveedores, con arquitectura en capas, persistencia JPA y manejo centralizado de excepciones.
 
-| Característica | Detalle |
-|---|---|
-| **Stack** | Laravel 12 · React 19 · Inertia.js · Tailwind CSS · MySQL |
-| **Arquitectura** | MVC · Arquitectura en capas · Principios SOLID |
-| **Infraestructura** | AWS VPC · EC2 (Ubuntu 24.04 + Nginx + PHP 8.4) · Aurora RDS |
-| **Seguridad** | HTTPS (Let's Encrypt) · Security Groups · Subredes privadas/públicas |
-| **Estado** | ✅ En producción |
+**Tecnologías:** Java · Spring Boot · Spring Data JPA · MySQL.
 
----
+### [PapeleriaApp — Aplicación de escritorio](https://github.com/MrBrian04/PapeleriaApp)
+Herramienta de gestión de productos y ventas, construida en Python con separación de controladores, modelos y vistas.
 
-## 📈 Estadísticas de GitHub
+**Tecnologías:** Python · Tkinter · JSON.
+
+### [Dotfiles MRB — Entorno Linux](https://github.com/MrBrian04/dotfiles-mrb)
+Configuraciones y scripts para reproducir y mantener un entorno de desarrollo en Linux.
+
+**Tecnologías:** Shell · Linux · Git.
+
+## Experiencia e intereses
+
+He trabajado en soluciones de reporte y captura de información mediante aplicaciones móviles y APIs, así como en automatización de procesos con **Power Automate Desktop**. Mi interés principal es conectar una buena arquitectura con la entrega de software útil: código comprensible, validaciones claras, pruebas y facilidad de evolución.
+
+Actualmente profundizo en **arquitectura hexagonal, diseño de sistemas y buenas prácticas de ingeniería de software**.
+
+## Tecnologías
+
+| Área | Herramientas |
+| --- | --- |
+| Backend | PHP, Laravel, Java, Spring Boot, Python, Django REST Framework |
+| Frontend y móvil | React, TypeScript, JavaScript, React Native, Expo, Inertia.js, Tailwind CSS |
+| Bases de datos | MySQL, PostgreSQL, MongoDB |
+| DevOps y herramientas | Git, GitHub, Docker, Linux, Nginx, AWS |
+| Automatización | Power Automate Desktop, UiPath |
+
+## GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrBrian04&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrBrian04&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrBrian04&theme=github_dark" alt="Resumen de actividad en GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrBrian04&theme=github_dark" alt="Lenguajes en repositorios de GitHub" />
 </p>
+
+## Contacto
+
+- **GitHub:** [@MrBrian04](https://github.com/MrBrian04)
+- **Correo:** [bvergelgalvan@gmail.com](mailto:bvergelgalvan@gmail.com)
 
 ---
 
-⭐️ ¡Gracias por visitar mi perfil! · [Contáctame](mailto:bvergelgalvan@gmail.com)
+*Busco seguir creciendo como ingeniero de software, con foco en arquitectura, calidad de código y soluciones sostenibles.*
